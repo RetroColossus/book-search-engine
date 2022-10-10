@@ -1,4 +1,4 @@
-# Movie Central
+# Google Book Search
 
 ## Deployed app on heroku: https://google-book-search-retro.herokuapp.com/
 
